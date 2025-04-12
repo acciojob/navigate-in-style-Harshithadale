@@ -4,6 +4,9 @@
 	padding:10px;
 	list-style:none;
 }
+ul{
+	display:flex
+}
 .container li{
 	display:inline;
 	margin-right:1rem;
